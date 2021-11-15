@@ -1,0 +1,5 @@
+*
+!powershell/
+!powershell/*.ps1
+!public/
+!.gitignore
